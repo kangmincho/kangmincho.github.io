@@ -63,10 +63,11 @@ menu:
     url:               /Teaching/
   - title:             Activities
     url:               /Activities/
+  - title:             Library
+    url:               /Library/
   - title:             "CV"
     url:               https://drive.google.com/file/d/1JUxps24EO5XjigJUrE-IqCC6Ocmcn3YV/view?usp=sharing
-  #- title:             Library
-  #  url:               /Library/
+  
   
 
 # Add links to the footer.
@@ -93,8 +94,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
@@ -285,8 +286,6 @@ hydejack:
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
     dynamic:           true
 
-    sunrise: 6
-    sunset: 18
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
 

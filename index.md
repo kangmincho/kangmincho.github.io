@@ -5,7 +5,7 @@ description: >
   Please refer to the site map below for your information!
 hide_description: true
 last_modified_at: 2018-08-03
-no_link_title: false 
+no_link_title: true 
 no_excerpt: false 
 hide_image: false
 cover: true
