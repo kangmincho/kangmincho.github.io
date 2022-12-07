@@ -22,24 +22,25 @@ sitemap: false
 
 # Project Experience
 
-## Team Project
-
-### The Impact of COVID-19 on the Economic Health of OECD Countries
-* Project topic: multivariate regression and cluster analysis of COVID-19 impact and economic growth of countries in the year of 2020. [[Presentation]](https://drive.google.com/file/d/1ehY_FkmCY8fooVKez9myluhJLJO9hj7R/view?usp=sharing)
-
-### Analyzing and Modelling the Life Expectancy of OECD Countries
-* Project topic: individual and group analysis and modelling the life expectancy for countries with regression and variable selection methods. [[Presentation]](https://drive.google.com/file/d/1z4T90vahIWuzN7xd508geYzyyZ4qqK9b/view?usp=sharing)
-
-### An Analysis of Homes in Saratoga County, NY
-* Project topic: hypothesis testing of sales price of houses in Saratoga county with permutation test. [[Presentation]](https://drive.google.com/file/d/1Z14uQ-jHzTnJmcIGJpWZlXyNkqeo69-I/view?usp=sharing)
-
 ## Individual Project
 
 ### Analysis on Favorable Sentiment and Bike Sharing Demand in Seoul
-* Project topic: analysis on the best model of favorable sentiments on segregation and integration of public housing by loglinear models; analysis on the best model of sharing bike demand in Seoul using the logistic regression with variable selection methods. [[Presentation]](https://drive.google.com/file/d/1cFGtvGwZBezpDMXwbpxbMb5CrjRSmgcT/view?usp=sharing)
+* Project topic: analysis on the best model of favorable sentiments on segregation and integration of public housing by loglinear models; analysis on the best model of sharing bike demand in Seoul using the logistic regression with variable selection methods. [[Slides]](https://drive.google.com/file/d/1cFGtvGwZBezpDMXwbpxbMb5CrjRSmgcT/view?usp=sharing)
 
 ### Analysis on Math Level and Air Quality
-* Project topic: math level analysis based on fractional factorial designs; air quality analysis based on ANCOVA. [[Presentation]](https://drive.google.com/file/d/1IZkpgydGkBTVyXycluBAeSYq2VKRP9GK/view?usp=sharing)
+* Project topic: math level analysis based on fractional factorial designs; air quality analysis based on ANCOVA. [[Slides]](https://drive.google.com/file/d/1IZkpgydGkBTVyXycluBAeSYq2VKRP9GK/view?usp=sharing)
 
 ### Time Series Analysis on *Gilead Sciences, Inc.* Common Stock Prices
 * Project topic: time series analysis of actual stock prices data from 2007 to 2020, fitted the model with the Box-Jenkins approach, and examined trend with the Augmented Dickey-Fuller test, KPSS test, and periodogram. [[Report]](https://drive.google.com/file/d/1OjkrajA8fftxXinUz7cjnIlYbX6ozAer/view?usp=sharing)
+
+## Team Project
+
+### The Impact of COVID-19 on the Economic Health of OECD Countries
+* Project topic: multivariate regression and cluster analysis of COVID-19 impact and economic growth of countries in the year of 2020. [[Slides]](https://drive.google.com/file/d/1ehY_FkmCY8fooVKez9myluhJLJO9hj7R/view?usp=sharing)
+
+### Analyzing and Modeling the Life Expectancy of OECD Countries
+* Project topic: individual and group analysis and modeling the life expectancy for countries with regression and variable selection methods. [[Slides]](https://drive.google.com/file/d/1z4T90vahIWuzN7xd508geYzyyZ4qqK9b/view?usp=sharing)
+
+### An Analysis of Homes in Saratoga County, NY
+* Project topic: hypothesis testing of sales price of houses in Saratoga county with permutation test. [[Slides]](https://drive.google.com/file/d/1Z14uQ-jHzTnJmcIGJpWZlXyNkqeo69-I/view?usp=sharing)
+

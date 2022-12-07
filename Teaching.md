@@ -24,16 +24,16 @@ sitemap: false
 
 ## Graduate Teaching Assistant
 ### Spring 2021
-* **Applied Linear Algebra** [(AMS210)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams210.php), Stony Brook University
-* **Applied Calculus 3** [(AMS261)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams261), Stony Brook University
+- **Applied Linear Algebra** [(AMS210)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams210.php), Stony Brook University
+- **Applied Calculus 3** [(AMS261)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams261), Stony Brook University
 
 ### Winter 2021
-* **Probability Theory**, [Incheon Academy of Science and Arts (IASA)](http://iasa.icehs.kr/sub/info.do?m=0801&s=isaa)
++ **Probability Theory**, [Incheon Academy of Science and Arts (IASA)](http://iasa.icehs.kr/sub/info.do?m=0801&s=isaa)
 
 ### Fall 2020
-* **Applied Calculus 2** [(AMS161)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams161), Stony Brook University
-* **Applied Calculus 4: Differential Equations** [(AMS361)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams361), Stony Brook University
-* **Statistical Laboratory** [(AMS394)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams394), Stony Brook University
+- **Applied Calculus 2** [(AMS161)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams161), Stony Brook University
+- **Applied Calculus 4: Differential Equations** [(AMS361)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams361), Stony Brook University
+- **Statistical Laboratory** [(AMS394)](https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams394), Stony Brook University
 
 ## Undergraduate Teaching Assistant
 ### Fall 2018
