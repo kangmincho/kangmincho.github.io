@@ -14,10 +14,10 @@ redirect_from:
 <!--author-->
 
 ## News
-* [November 2022] **[Library](/Library)** is now available on this website!
-* [November 2022] I am working on **the website**!
-* [August 2021] My compulsory military service began. Please refer to **[Activities](/Activities)**.
-* [June 2021] I received my **Master's degree in Applied Math and Statistics** from Stony Brook University! You can find my name in **Page 50 of [Sixty-First Commencement Graduate List at SBU](https://www.stonybrook.edu/commcms/commencement/pdfs/may-2021-commencement-program.pdf)**.
+* [November 2022] **[Library](/Library)** is now under construction on this website!
+* [November 2022] I launched this website for my personal records!
+* [August 2021] My compulsory military service began. Please refer to [Activities](/Activities) for more information.
+* [June 2021] I received my **Master's degree in Applied Math and Statistics** from Stony Brook University! You can find my name in p.50 of [Sixty-First Commencement Graduate List at SBU](https://www.stonybrook.edu/commcms/commencement/pdfs/may-2021-commencement-program.pdf).
 
 ## Some of my favorite quotes
 > **"If I have seen further it is by standing on the shoulders of Giants."** <br/>

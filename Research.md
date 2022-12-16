@@ -44,7 +44,7 @@ July 2019 - August 2019 <br/>
 
 
 ## Publication
-**Note**: You may also visit my [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=3&user=z7FDeawAAAAJ) page to review my publications.
+**Note**: You may also visit my [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=3&user=z7FDeawAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Kangmin-Cho) profile to review my publications.
 
 ### Journal
 * **Kangmin Cho**, Kichang Jung, Michele Lee, Yena Lee, Jaewon Park, and Neal Dreamson. 2022. **Qualitative Approaches to Evaluating Social Media Influencers: A Case-Based Literature Review.** *International Journal of Electronic Commerce Studies*. 13(2). [[paper]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Qualitative+Approaches+to+Evaluating+Social+Media+Influencers%3A+A+Case-Based+Literature+Review&btnG=), [[poster]](https://drive.google.com/file/d/1QoBTFUhfkBLjhBuX0vkcduZ84_pmebNn/view?usp=sharing), [[presentation]](https://youtu.be/NfuqyWH86oI)
