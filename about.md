@@ -14,6 +14,7 @@ redirect_from:
 <!--author-->
 
 ## News
+* [December 2022] **CV** is updated! Please follow the link at the banner.
 * [November 2022] **[Library](/Library)** is now under construction on this website!
 * [November 2022] I launched this website for my personal records!
 * [August 2021] My compulsory military service began. Please refer to [Activities](/Activities) for more information.
