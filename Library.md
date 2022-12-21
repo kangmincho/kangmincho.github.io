@@ -110,7 +110,6 @@ sitemap: false
 3. Nine, by Seon-Ran Cheon
 2. Welcome to Paradise, by Bernard Werber
 1. The Miracles of the Namiya General Store, by Keigo Higashino
-
 {: reversed="reversed"}
 
 ## 2021
