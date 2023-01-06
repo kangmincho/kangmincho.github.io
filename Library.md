@@ -158,5 +158,8 @@ sitemap: false
 1. ⭐**Diary of a Murderer**, by Young-ha Kim
 {: reversed="reversed"}
 
+# Miscellaneous
+* [December 2022] I participated in a book club hosted by Changbi Publishers. [[Certificate]](https://drive.google.com/file/d/1A-REqnnxDoA2YG1RI2PiMaRv5C6wZp3S/view?usp=sharing)
+
 # Review Site
 Please visit **[@lilybooks_archive](https://www.instagram.com/lilybooks_archive/)** channel for more reviews.
