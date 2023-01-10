@@ -15,7 +15,7 @@ redirect_from:
 
 ## News
 * [January 2023] **The book proposal of our group ([CE Lab](/Research.md)) is now accepted to Springer Nature!** This will be published to the [SDG Series of Springer](https://www.springer.com/series/15486) this year.
-* [December 2022] **[CV](https://drive.google.com/file/d/1K5hhVqbD7Td-NuquAHHDKlG7QZLWU0SI/view?usp=sharing)** is updated! Please follow the link at the banner.
+* [January 2023] **[CV](https://drive.google.com/file/d/1W74AUiXi4xSUgI4pkM31l3wM4Rh7mkRk/view?usp=sharing)** is updated! Please follow the link at the banner.
 * [November 2022] **[Library](/Library)** is now under construction on this website!
 * [November 2022] I launched this website for my personal records!
 * [August 2021] My compulsory military service began. Please refer to [Activities](/Activities) for more information.

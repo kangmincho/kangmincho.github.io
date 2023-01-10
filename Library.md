@@ -26,7 +26,7 @@ sitemap: false
 * Last updated: January 10, 2023.
 
 ## 2023
-2. **On Freedom**, by Cass Sunstein
+2. **On Freedom**, by Cass R. Sunstein
 1. **The Labyrinth**, by Fuminori Nakamura
 {: reversed="reversed"}
 
