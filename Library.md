@@ -23,9 +23,10 @@ sitemap: false
 
 # Reading List
 * Books with a ⭐star⭐ indicate my favorite read of the year.
-* Last updated: January 5, 2023.
+* Last updated: January 10, 2023.
 
 ## 2023
+2. **On Freedom**, by Cass Sunstein
 1. **The Labyrinth**, by Fuminori Nakamura
 {: reversed="reversed"}
 
