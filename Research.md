@@ -53,8 +53,9 @@ July 2019 - August 2019 <br/>
 * Tan H. Cao, Nilson Chapagain, **Kangmin Cho**, Jinwoo Choi, Sinae Hong, Abhishek Kafle, Haejoon Lee, Hansol Lim, Biniam Markos, Jiung Seo, Phung Ngoc Thi, and Nguyen Nang Thieu. **Optimal Control of Several Motion Models.** [[paper]](https://arxiv.org/abs/2205.00260) (*under the second review at Discrete and Continuous Dynamical Systems Series B*.)
 
 ### Working Publication
-* **Kangmin Cho**. 2023. **Review on the Circular Capacitors.** In *Relinking Eden: The Best Materials and Organizational Choices to Accelerate a Circular Economy and the Worst to Phase Out: Theory, Biomass, Metals*. A book chapter. (***Accepted to Springer Nature SDG Series***.)
-* **Kangmin Cho**. 2023. **Computer Hardware Choices toward a Circular Economy.** In *Relinking Eden: The Best Materials and Organizational Choices to Accelerate a Circular Economy and the Worst to Phase Out: Theory, Biomass, Metals*. A book chapter. (***Accepted to Springer Nature SDG Series***.)
+* **Kangmin Cho**. 2023+. **Review on the Circular Capacitors.** In *Relinking Eden: The Best Materials and Organizational Choices to Accelerate a Circular Economy and the Worst to Phase Out: Theory, Biomass, Metals*. A book chapter. (***Accepted to Springer Nature SDG Series***.)
+* **Kangmin Cho**. 2023+. **Computer Hardware Choices toward a Circular Economy.** In *Relinking Eden: The Best Materials and Organizational Choices to Accelerate a Circular Economy and the Worst to Phase Out: Theory, Biomass, Metals*. A book chapter. (***Accepted to Springer Nature SDG Series***.)
+* **Kangmin Cho**. 2023+. **Review on the Circular Semiconductors.** In *Relinking Eden: The Best Materials and Organizational Choices to Accelerate a Circular Economy and the Worst to Phase Out: Theory, Biomass, Metals*. A book chapter. (***Accepted to Springer Nature SDG Series***.)
 
 
 ## Presentation

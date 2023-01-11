@@ -111,7 +111,7 @@ sitemap: false
 10. **Saying Goodbye**, by Youngha Kim
 9. **How to Read**, by Dong-jin Lee
 8. **No One Can Love Earth Like an Earthian**, by Serang Chung
-7. ⭐**The Adventure of Christmas Pudding**, by Agatha Christie
+7. ⭐**The Adventure of the Christmas Pudding**, by Agatha Christie
 6. **The Snow Child**, by Nyeung Dal An
 5. ⭐**My Twentieth Century Evening and Other Small Breakthroughs**, by Kazuo Ishiguro
 4. **Librarian’s Work**, by Suhee Lim
