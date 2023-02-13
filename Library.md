@@ -23,9 +23,13 @@ sitemap: false
 
 # Reading List
 * Books with a ⭐star⭐ indicate my favorite read of the year.
-* Last updated: January 10, 2023.
+* Last updated: February 13, 2023.
 
 ## 2023
+6. **Omnisceint Reader's Viewpoint, Part 1, Vol. 2**, by Sing Shong
+5. ⭐**Harbin**, by Kim Hoon
+4. **Even if This Love Disappears From the World Tonight**, by Misaki Ichijo
+3. **Omnisceint Reader's Viewpoint, Part 1, Vol. 1**, by Sing Shong
 2. **On Freedom**, by Cass R. Sunstein
 1. **The Labyrinth**, by Fuminori Nakamura
 {: reversed="reversed"}
