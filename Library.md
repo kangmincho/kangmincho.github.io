@@ -23,9 +23,13 @@ sitemap: false
 
 # Reading List
 * Books with a ⭐star⭐ indicate my favorite read of the year.
-* Last updated: February 13, 2023.
+* Last updated: February 25, 2023.
 
 ## 2023
+10. **A Belated Reply**, by Jung Won
+9. **The Maid**, by Nita Prose
+8. **New York Psychiatrist's Library**, by Peter Jongho Na
+7. **2022 Kim Seungok Literary Award Compilation**, by Hye-young Pyun et al.
 6. **Omnisceint Reader's Viewpoint, Part 1, Vol. 2**, by Sing Shong
 5. ⭐**Harbin**, by Kim Hoon
 4. **Even if This Love Disappears From the World Tonight**, by Misaki Ichijo
