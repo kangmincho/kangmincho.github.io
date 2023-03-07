@@ -26,6 +26,7 @@ sitemap: false
 * Last updated: March 5, 2023.
 
 ## 2023
+14. ⭐**Whoever Was Using This Bed and Other Stories**, by Raymond Carver
 13. ⭐**Surely You're Joking, Mr. Feynman! Vol. 1**, by Richard Feynman
 12. **Omnisceint Reader's Viewpoint, Part 1, Vol. 3**, by Sing Shong
 11. ⭐**The Farewell Ceremony**, by Miyabe Miyuki
