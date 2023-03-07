@@ -28,16 +28,16 @@ sitemap: false
 ## 2023
 14. ⭐**Whoever Was Using This Bed and Other Stories**, by Raymond Carver
 13. ⭐**Surely You're Joking, Mr. Feynman! Vol. 1**, by Richard Feynman
-12. **Omnisceint Reader's Viewpoint, Part 1, Vol. 3**, by Sing Shong
+12. **Omniscient Reader's Viewpoint, Part 1, Vol. 3**, by Sing Shong
 11. ⭐**The Farewell Ceremony**, by Miyabe Miyuki
 10. **A Belated Reply**, by Jung Won
 9. **The Maid**, by Nita Prose
 8. **New York Psychiatrist's Library**, by Peter Jongho Na
 7. ⭐**2022 Kim Seungok Literary Award Compilation**, by Hye-young Pyun et al.
-6. **Omnisceint Reader's Viewpoint, Part 1, Vol. 2**, by Sing Shong
+6. **Omniscient Reader's Viewpoint, Part 1, Vol. 2**, by Sing Shong
 5. ⭐**Harbin**, by Kim Hoon
 4. **Even if This Love Disappears From the World Tonight**, by Misaki Ichijo
-3. ⭐**Omnisceint Reader's Viewpoint, Part 1, Vol. 1**, by Sing Shong
+3. ⭐**Omniscient Reader's Viewpoint, Part 1, Vol. 1**, by Sing Shong
 2. **On Freedom**, by Cass R. Sunstein
 1. **The Labyrinth**, by Fuminori Nakamura
 {: reversed="reversed"}
