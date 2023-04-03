@@ -14,5 +14,5 @@ cover: true
 Please refer to the site map below for your information.
 {:.note title="Attention"}
 
-![Full-width image](assets/img/sitemap.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](assets/img/sitemap){:.lead width="800" height="100" loading="lazy"}
 
