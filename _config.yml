@@ -29,7 +29,7 @@ description:           >
   of Kangmin Cho.
 
 # A shorter description for the sidebar.
-tagline:               "If I have seen further it is by standing on the shoulders of Giants. (Newton, 1675)"
+tagline:               "This website is temporarily closed until November 2023. Thank you."
 
 # A list of keywords for your blog
 keywords:              [Statistics, Sustainability, Data analysis, Social statistics]
@@ -54,19 +54,19 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about/
+#    url:               /about/
   - title:             Research
-    url:               /Research/
+#    url:               /Research/
   - title:             Project
-    url:               /Project/
+#    url:               /Project/
   - title:             Teaching
-    url:               /Teaching/
+#    url:               /Teaching/
   - title:             Activities
-    url:               /Activities/
+#    url:               /Activities/
   - title:             Library
-    url:               /Library/
+#    url:               /Library/
   - title:             "CV"
-    url:               https://drive.google.com/file/d/1W74AUiXi4xSUgI4pkM31l3wM4Rh7mkRk/view?usp=sharing
+#    url:               https://drive.google.com/file/d/1W74AUiXi4xSUgI4pkM31l3wM4Rh7mkRk/view?usp=sharing
   
   
 
