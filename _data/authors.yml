@@ -36,8 +36,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          kangmincho
-    email:           <kangmin.cho@alumni.stonybrook.edu>
+    # github:          kangmincho
+    # email:           <kangmin.cho@alumni.stonybrook.edu>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -48,7 +48,7 @@ author1:
     # spotify:         user/mrjx73ugd7e1e6xfzpencwu8r
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       lilybooks_archive
+    # instagram:       lilybooks_archive
     # instagram:       kangmxn
     # flickr:          <string@string>
     # 500px:           <username>
@@ -67,7 +67,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        jkmc-kangmin-cho
+    # linkedin:        jkmc-kangmin-cho
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
